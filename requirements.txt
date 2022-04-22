@@ -1,3 +1,12 @@
 asgiref==3.5.0
 Django==4.0.4
+django-cors-headers==3.11.0
+django-filter==21.1
+djangorestframework==3.13.1
+future==0.18.2
+importlib-metadata==4.11.3
+Markdown==3.3.6
+pytz==2022.1
+serializers==0.2.4
 sqlparse==0.4.2
+zipp==3.8.0
